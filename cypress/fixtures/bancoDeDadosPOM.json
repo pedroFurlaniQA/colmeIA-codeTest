@@ -1,0 +1,28 @@
+{
+  "url": "https://teste-colmeia-qa.colmeia-corp.com/",
+  "bancoDeDadosUrl": "/bancos-de-dados",
+
+  "validEmail": "qa@test.com",
+  "validPassword": "123456",
+
+  "emailField": "#email",
+  "passwordField": "#password",
+  "loginButton": ".p-16 > .flex-col > .flex",
+  "continueButton": "Continuar",
+  "campanhaIcon": ".p-2 > .flex",
+  "bancoDeDadosLink": "menu > .flex > :nth-child(1) > a",
+
+  "criarButton": ".py-1 > :nth-child(2) > .gap-2",
+  "saveButton": "Salvar",
+  "criarConfirmButton": "Criar",
+  "itemNameInput": "input[type='text']",
+  "searchField": ".py-1 > :nth-child(1) > .gap-2 > .w-full",
+  "arquivadosIcon": "[d='M20 2H4c-1 0-2 .9-2 2v3.01c0 .72.43 1.34 1 1.69V20c0 1.1 1.1 2 2 2h14c.9 0 2-.9 2-2V8.7c.57-.35 1-.97 1-1.69V4c0-1.1-1-2-2-2zm-5 12H9v-2h6v2zm5-7H4V4l16-.02V7z']",
+  "deleteIcon": ".mb-4 path[d='M20 2H4c-1 0-2 .9-2 2v3.01c0 .72.43 1.34 1 1.69V20c0 1.1 1.1 2 2 2h14c.9 0 2-.9 2-2V8.7c.57-.35 1-.97 1-1.69V4c0-1.1-1-2-2-2zm-5 12H9v-2h6v2zm5-7H4V4l16-.02V7z']",
+  "arquivadosHeading": ".mb-3 > h3",
+
+  "itemName1": "Joao teste",
+  "itemName2": "Maria teste",
+  "itemNameDelete": "Delete teste",
+  "arquivadosHeadingText": "Itens Arquivados"
+}

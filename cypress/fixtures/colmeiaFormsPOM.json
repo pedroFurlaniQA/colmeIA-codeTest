@@ -1,0 +1,15 @@
+{
+  "url": "https://teste-colmeia-qa.colmeia-corp.com/",
+  "campanhaUrl": "/campanha",
+  "colmeiaFormsUrl": "/colmeia-forms",
+
+  "validEmail": "qa@test.com",
+  "validPassword": "123456",
+
+  "emailField": "#email",
+  "passwordField": "#password",
+  "loginButton": ".p-16 > .flex-col > .flex",
+  "continueButton": "Continuar",
+  "campanhaIcon": ".p-2 > .flex",
+  "colmeiaFormsLink": "a[href='/dashboard/campanha/colmeia-forms']"
+}

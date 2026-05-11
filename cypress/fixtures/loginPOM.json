@@ -1,0 +1,18 @@
+{
+  "url": "https://teste-colmeia-qa.colmeia-corp.com/",
+
+  "validEmail": "qa@test.com",
+  "validPassword": "123456",
+  "invalidEmail": "teste@email.com",
+  "invalidPassword": "senhaerrada",
+
+  "emailField": "#email",
+  "passwordField": "#password",
+  "loginButton": "body > app-root > ng-component > article > main > form > button",
+  "errorMessage": "body > app-root > ng-component > article > main > form > field:nth-child(3) > span",
+  "welcomeMessage": ".fixed > .flex-col > .text-lg",
+  "continueButton": "Continuar",
+
+  "errorText": "Usuário ou senha inválidos",
+  "dashboardUrl": "/dashboard"
+}
