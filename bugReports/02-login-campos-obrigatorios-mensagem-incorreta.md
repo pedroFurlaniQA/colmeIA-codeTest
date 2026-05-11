@@ -18,7 +18,9 @@ Then "Este campo é obrigatório" warning should be shown attached to the respec
 
 ---
 
-Evidência : <video src="../evidencias/02-bugEvidencie.mp4" controls width="600"></video>
+Evidência : 
+
+<video src="https://github.com/user-attachments/assets/b09950b2-a76a-418b-8b10-688550a9f695" controls width="600"></video>
 
 
 ---
